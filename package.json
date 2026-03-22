@@ -1,0 +1,28 @@
+{
+  "name": "discord-raid-toolkit",
+  "version": "0.2.0",
+  "description": "An easy discord.js functions wrapper to make raid bots easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/singular100/discord-raid-toolkit"
+},
+  "keywords": [
+    "raid",
+    "discord",
+    "raid",
+    "raiding",
+    "selfbot",
+    "discord.js",
+    "discord.js",
+    "raid"
+  ],
+  "author": "_singular",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}
